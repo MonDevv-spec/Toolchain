@@ -1,6 +1,6 @@
 {
   "engine_version": 1,
-  "build_enabled": true,
+  "build_enabled": false,
   "engine_url": "https://raw.githubusercontent.com/MonDevv-spec/Toolchain/main/termux-build",
   "sha256": "",
   "message": "temporarily disabled"
