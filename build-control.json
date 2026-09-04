@@ -1,6 +1,6 @@
 {
-  "build_enabled": true,
+  "build_enabled": false,
   "engine_version": 2,
-  "message": "Toolchain ready",
+  "message": "Toolchain disable",
   "engine_url": "https://raw.githubusercontent.com/MonDevv-spec/Toolchain/main/termux-build"
 }
